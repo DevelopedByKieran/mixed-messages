@@ -75,8 +75,7 @@ const quotes = [
 // A function to generate a random quote with the author name
 const randomQuote = () => {
     let randomNumber = Math.floor(Math.random() * quotes.length);
-    return `${quotes[randomNumber].quote} - ${quotes[randomNumber].author}`;
+    return `${quotes[randomNumber].fullQuote}`;
 }
 
 console.log(randomQuote());
-console.log(quotes[0].fullQuote);
