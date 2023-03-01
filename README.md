@@ -8,3 +8,5 @@ Inspirational quotes are useful:
 - If you feel like you're the only one struggling
 
 Hopefully some of these quotes can lift your spirits and inspire you to overcome your hardships, whatever they may be.
+
+![](https://www.ourmindfullife.com/wp-content/uploads/2019/08/Dr-seuss-quotes-OurMindfulLife.com-5.jpg)
