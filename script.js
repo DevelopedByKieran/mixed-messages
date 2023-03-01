@@ -69,6 +69,55 @@ const quotes = [
     get fullQuote () {
         return `${this._quote} - ${this._author}`;
     }
+  },
+  {
+    _author: "Aristotle",
+    _quote: "It is during our darkest moments that we must focus to see the light.",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
+  },
+  {
+    _author: "Mahatma Gandhi",
+    _quote: "In a gentle way, you can shake the world.",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
+  },
+  {
+    _author: "Joseph Campbell",
+    _quote: "We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
+  },
+  {
+    _author: "Albert Einstein",
+    _quote: "Life is like riding a bicycle.  To keep your balance, you must keep moving.",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
+  },
+  {
+    _author: "Dolly Parton",
+    _quote: "If you don't like the road you're walking, start paving another one!",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
+  },
+  {
+    _author: "George Eliot",
+    _quote: "It is never too late to be what you might have been.",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
+  },
+  {
+    _author: "Dr. Seuss",
+    _quote: "You have brains in your head.  You have feet in your shoes.  You can steer yourself any direction you choose.",
+    get fullQuote () {
+        return `${this._quote} - ${this._author}`;
+    }
   }
 ];
 
