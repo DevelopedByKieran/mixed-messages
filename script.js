@@ -123,8 +123,8 @@ const quotes = [
 
 // A function to generate a random quote with the author name
 const randomQuote = () => {
-    let randomNumber = Math.floor(Math.random() * quotes.length);
-    return `${quotes[randomNumber].fullQuote}`;
+    let randomIndex = Math.floor(Math.random() * quotes.length);
+    return `${quotes[randomIndex].fullQuote}`;
 }
 
 console.log(randomQuote());
